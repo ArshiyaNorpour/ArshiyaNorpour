@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Arshiya Norpour
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python, Machi
+- 🌱 I’m currently studying in Tehran Allame-Helli
+- 📫 Github, Linux, Python
