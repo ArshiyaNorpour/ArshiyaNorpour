@@ -2,9 +2,4 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python, Machine Learning
 - 🌱 I’m currently studying in Tehran Allame-Helli
-- 📫 Github, Linux, Python
-- (Deutsch)
-- 👋 Hallo, Ich bin Arshiya Norpour
-- 👀 Ich liebe Programmieren
-- 🌱 Jetzt lerne ich Python, Machine Learning
-- 🌱 Ich studiere in der Teheran Allame-Helli schule
+- :octocat:Github, 🐧Linux, 🐍Python, 🏫 Tehran Allame-Helli high school
