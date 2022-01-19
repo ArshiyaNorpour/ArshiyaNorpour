@@ -3,5 +3,4 @@
 - 🌱 I’m learning Python, Machine Learning
 - 🌱 I’m studying in Tehran Allame-Helli
 - :octocat:Github, 🐧Linux, 🐍Python, 🏫 Tehran Allame-Helli high school
-- ![GitHub followers](https://img.shields.io/github/followers/ArshiyaNorpour?style=social)
-- ![GitHub watchers](https://img.shields.io/github/watchers/ArshiyaNorpour/Arshiyanorpour?style=social)
+- ![GitHub followers](https://img.shields.io/github/followers/ArshiyaNorpour?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/ArshiyaNorpour/Arshiyanorpour?style=social)
