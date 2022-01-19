@@ -5,4 +5,3 @@
 - :octocat:Github, 🐧Linux, 🐍Python, 🏫 Tehran Allame-Helli high school
 - ![GitHub followers](https://img.shields.io/github/followers/ArshiyaNorpour?style=social)
 - ![GitHub watchers](https://img.shields.io/github/watchers/ArshiyaNorpour/Arshiyanorpour?style=social)
-- https://img.shields.io/badge/Name-Arshiya-green
