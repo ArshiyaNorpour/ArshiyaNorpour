@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arshiya Norpour
+- 👋 Hi, I’m Arshiya Norpour, A Computer Enthusiast Programmer (CeProgrammer)
 - 👀 I’m interested in Programming
 - 🌱 I’m learning Python, Machine Learning
 - 🌱 I’m studying in Tehran Allame-Helli
